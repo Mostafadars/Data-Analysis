@@ -1,0 +1,31 @@
+i have "World Wide Cases detail" dataset 
+
+This dataset includes global crime data, with information on various indicators across 
+different countries and regions, categorized by sex and age.
+
+that have these columns:
+Iso3_code, Country, Region, Subregion, Indicator, Dimension, Category, Sex, Age, Year, 
+Unit of measurement, VALUE, Source
+
+* the columns have these data:
+- Iso3_code: have codes of the countries like => AZE, BEL, BGR, BHR, BLR
+- Country: have the name of the countries => Azerbaijan, Belgium, Bulgaria, Bahrain, Belarus
+- Region: have values like that => Africa, Americas, Asia, Europe, Oceania
+- Subregion: Australia and New Zealand, Central Asia, Eastern Asia, Latin America and the 
+Caribbean, Melanesia, Northern Africa, Northern America, Northern Europe, South-eastern Asia,
+Southern Asia, Southern Europe, Sub-Saharan Africa, Western Asia, Western Europe
+- Indicator: Victims of serious assault, Victims of sexual violance, Violent offences
+- Dimension: by relationship to perpetrator, by type of offence
+- Category: Acts intended to inducce fear or emotional distress, 
+Acts intended to inducce fear or emotional distress: Cyber-related, 
+intimate partner or family member, Kidnapping, Other Prepetrator known to the victim, 
+Prepetrator unknown to the victim, Relationship to prepetrator is not known, Serious assault, 
+Sexual Exploitation, Sexual violance, Sexual violance: Other acts of sexual violance, 
+Sexual violance: Rape, Sexual violance: sexual assault
+- Sex: Female, Male, Total
+- Age: Total
+- Year: range from 2003 to 2022
+- Unit of measurement: Counts, Rate per 100,000 population
+- VALUE: have many integer values
+- Source: Computed/CTS, CTS, CTS/Computed, CTS/DATASUS, CTS/DMDB, CTS/Mol, CTS/NGO, CTS/NSO, 
+CTS/PPR, DMDB, MNS, Mol, Mol/CTS, NGO, NGO/CTS, NSO, PPR, PPR/CTS
