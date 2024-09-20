@@ -1,2 +1,2 @@
 # Data-Analysis
-Repo for Learning data analysis and using google colab
+Repo for Learning data analysis and their projects
